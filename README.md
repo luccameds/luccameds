@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Lucca Medeiros](https://www.luccameds.com)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, <br /> I'm [Lucca Medeiros](https://www.luccameds.com)!
 
 I work as a web designer front-end developer with UI/UX design skills (front-end designer). I´m based in Goiás, Brasil and actually studying in Universidade de Brasília - UNB.
 
